@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Scenli",
+  "description": "An AI-powered room design platform that lets users upload photos of any space and receive photorealistic design plans with shoppable product recommendations. It covers both indoor and outdoor spaces.",
+  "url": "https://scenli.ai",
+  "category": "Home & Interior Design",
+  "sameAs": [
+    "https://tiktok.com/@scenli_ai",
+    "https://instagram.com/scenli.ai",
+    "https://pinterest.com/scenli-ai"
+  ],
+  "slogan": "Shoppable product plans tied to photorealistic renders with architecture preservation — competitors offer one or two of these, not all three.",
+  "wadsworth": {
+    "profileUrl": "https://wadsworth.ai/profile/scenli-6e1f8a",
+    "lastUpdated": "2026-05-19T13:20:39.250Z"
+  }
+}
