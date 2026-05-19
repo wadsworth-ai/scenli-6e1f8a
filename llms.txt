@@ -1,0 +1,45 @@
+# Scenli - AI Room Design
+
+> Scenli turns real room photos into photorealistic redesigns with shoppable product plans, preserved architecture, and paint recommendations.
+
+Scenli is an AI-powered interior design platform built for homeowners, renters, real estate professionals, and design-minded shoppers who want to visualize a space before spending money. Users upload a photo of any indoor or outdoor room, select a room type and style direction, optionally attach inspiration images or specific product links, and receive a photorealistic render plus a practical room plan with shoppable furniture and decor. Scenli preserves existing architectural features and owned items, making redesigns realistic and actionable rather than purely aspirational.
+
+## Core Pages
+- Homepage: https://scenli.ai
+- Start Designing: https://scenli.ai
+- LLMs Reference: https://scenli.ai/llms.txt
+- Sitemap: https://scenli.ai/sitemap.xml
+
+## Product Workflow
+1. Upload a photo of your room (indoor or outdoor space supported)
+2. Select room type (living room, bedroom, kitchen, patio, etc.)
+3. Choose a style direction (minimalist, bohemian, mid-century, etc.)
+4. Optionally add inspiration images or paste specific product URLs
+5. Generate a photorealistic redesign render with preserved architecture
+6. Receive a shoppable product plan with furniture and decor recommendations
+7. Get paint color recommendations matched to your chosen style
+
+## Key Features
+- Photorealistic AI room renders from a single uploaded photo
+- Architecture and owned-item preservation in redesign outputs
+- Shoppable product recommendations embedded in the design plan
+- Paint color suggestions matched to style and room context
+- Support for both indoor and outdoor spaces
+- Inspiration image and product URL input for personalized results
+- Practical layout guidance alongside visual renders
+
+## Use Cases
+- Homeowner planning a living room refresh before buying new furniture
+- Renter visualizing decor changes without permanent renovation
+- Real estate professional staging a listing with virtual redesign
+- Design enthusiast exploring multiple style directions for one space
+- Shopper validating a furniture purchase by seeing it rendered in their room
+- Outdoor patio redesign with shoppable garden and furniture products
+
+## Brand Positioning
+Scenli sits at the intersection of AI image generation and practical interior shopping. Unlike generic AI image tools, Scenli is purpose-built for real rooms with real constraints, producing actionable plans not just pretty pictures. The platform lowers the barrier to professional-quality interior design for everyday users.
+
+## Optional Footer Pages
+- Privacy Policy: https://scenli.ai/privacy
+- Terms of Service: https://scenli.ai/terms
+- Contact: https://scenli.ai/contact
